@@ -1,2 +1,2 @@
 # cevrilmis-hacktool
-@ByCh4n'in hacktoolunun Türkçe'ye çevrilmiş hali.
+@ByCh4n'in hacktoolunun İngilizceye'ye çevrilmiş hali.
